@@ -1,0 +1,2 @@
+# rss_headline_scraper
+RSSフィードからニュース見出しを取得するPythonスクリプト
