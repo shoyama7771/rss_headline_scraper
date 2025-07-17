@@ -1,2 +1,2 @@
-# rss_headline_scraper
-RSSフィードからニュース見出しを取得するPythonスクリプト
+# RSS Headline Scraper
+ニュースサイトのRSSから最新の見出しを取得するPythonツールです。
